@@ -1,0 +1,47 @@
+.face{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: white;
+    background-color: rgb(75, 75, 231);
+    padding: 20px;
+    text-indent: 6cm;
+}
+.first{
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px;
+    color: rgb(36, 42, 94);
+    background: white;
+    padding-left: 4cm;
+    padding-top: 1cm;
+}
+.media{
+    height: 250px;
+    width: 500px;
+    padding-left: 5cm;
+    padding-top: 0,05cm;
+}
+#username{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-indent: 5cm;
+}
+#password{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-indent: 1cm;
+}
+.right
+{
+    left: 1100px;
+    position: fixed;
+    float: right;
+    font-family: "Arial";
+    margin-top: 20px;
+}
+.rightside
+{
+    margin-right: 590px;
+}
+.right p
+{
+    margin-top: 13px;
+    font-family: "Arial";
+}
